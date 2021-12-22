@@ -6,9 +6,16 @@
 
 Els elements d'aquest repositori constitueixen la resposta a la pràctica de *Neteja i anàlisi de les dades* (pràctica 2) de l'assignatura *Tipologia i Cicle de vida de les dades* del *Màster en Ciència de Dades* de la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/ca/index.html) (UOC), corresponent al primer semestre del curs 2021-2022.
 
-A partir del dataset [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global), disponible a la plataforma [Kaggle](https://www.kaggle.com/), l'objectiu consisteix a realitzar les tasques pròpies de preprocessat de dades per després elaborar una anàlisi que respongui les preguntes d'investigació plantejades.
+A partir del dataset [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global), disponible a la plataforma [Kaggle](https://www.kaggle.com/), l'objectiu consisteix a realitzar les tasques pròpies de preprocessat de dades per després elaborar una anàlisi que respongui les següents preguntes d'investigació:
+
+1. La característica que està més relacionada amb la valoració, és la mateixa per als porters i que per als jugadors de camp?  
+2. Podem afirmar que la mitjana de l’IMC de porters i jugadors de camp és igual?  
+3. Quina combinació de característiques esportives explica millor la valoració d’un jugador? Com afecta a la valoració ser o no porter?  
+4. Quina és la probabilitat de ser internacional en funció de la valoració, l’edat i la posició? En quin percentatge augmenta o disminueix aquesta probabilitat el fet de ser o no porter?
 
 ## Vídeo
+
+D'acord a l'enunciat de la pràctica, es facilita un vídeo explicatiu del projecte seleccionat. Es pot accedir clicant aquí.
 
 ## Repositori 
 ```bash
