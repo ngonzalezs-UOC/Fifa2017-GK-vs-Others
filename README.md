@@ -1,5 +1,7 @@
 # Fifa2017-GK-vs-Others
 
+![img.png](aux/Fifa2017.jpg)
+
 ## Context
 
 Els elements d'aquest repositori constitueixen la resposta a la pràctica de *Neteja i anàlisi de les dades* (pràctica 2) de l'assignatura *Tipologia i Cicle de vida de les dades* del *Màster en Ciència de Dades* de la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/ca/index.html) (UOC), corresponent al primer semestre del curs 2021-2022.
