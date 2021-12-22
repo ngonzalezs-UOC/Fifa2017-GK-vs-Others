@@ -15,7 +15,7 @@ A partir del dataset [Complete FIFA 2017 Player dataset (Global)](https://www.ka
 
 ## Vídeo
 
-D'acord a l'enunciat de la pràctica, es facilita un vídeo explicatiu del projecte seleccionat. Es pot accedir clicant aquí.
+D'acord a l'enunciat de la pràctica, es facilita un vídeo explicatiu del projecte. Es pot accedir clicant aquí.
 
 ## Repositori 
 ```bash
