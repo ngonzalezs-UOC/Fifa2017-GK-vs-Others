@@ -60,7 +60,7 @@ Totes i cadascuna de les parts d'aquest treball han estat realitzades exclusivam
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Tots i cadascun dels continguts d'aquest projecte estan sotmesos a la llicència
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa], excepte eventualment pel que respecta als datasets *original* i *processat* sobre els que caldria observar les llicències existents que són d'aplicació.
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa], excepte pel que respecta als datasets *original* i *processat* sobre els que caldria observar les llicències eventualment preexistents que són d'aplicació.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
