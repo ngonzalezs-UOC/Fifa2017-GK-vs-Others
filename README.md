@@ -25,7 +25,7 @@ A partir del dataset [Complete FIFA 2017 Player dataset (Global)](https://www.ka
     ├───src
     │       Fifa2017-GK-vs-Others.Rmd
     │       Fifa2017-GK-vs-Others.R
-    │    |
+    │    
     └───video
             Fifa2017-GK-vs-Others.mp4
 ```
