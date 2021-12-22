@@ -44,7 +44,7 @@ D'acord a l'enunciat de la pràctica, es facilita un vídeo explicatiu del proje
 - **LICENSE**: Fitxer amb els termes de la llicència aplicada al projecte.
 - **README.md**: Fitxer explicatiu del projecte.
 - **aux/\*.\***: Fitxers auxiliars del projecte.
-- **data/Fifa2017_original.csv**: Dataset d'entrada (còpia del dataset original FullData.csv).
+- **data/Fifa2017_original.csv**: Dataset d'entrada (còpia del dataset original *FullData.csv*).
 - **data/Fifa2017_final.csv**: Dataset de sortida, després del preprocessat.
 - **pdf/Fifa2017-GK-vs-Others.pdf**: Fitxer de presentació amb les respostes de la pràctica.
 - **src/Fifa2017-GK-vs-Others.Rmd**: Fitxer font amb les respostes de la pràctica que inclou el codi R.
