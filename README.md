@@ -12,22 +12,25 @@ A partir del dataset [Complete FIFA 2017 Player dataset (Global)](https://www.ka
 ```bash
 ────Fifa2017-GK-vs-Others
     │
+    ├───LICENSE
+    ├───README.md
+    │    
     ├───data
     │       Fifa2017_original.csv
     │       Fifa2017_final.csv
     │
     ├───pdf
     │       Fifa2017-GK-vs-Others.pdf
-    |
+    │
     ├───src
     │       Fifa2017-GK-vs-Others.Rmd
     │       Fifa2017-GK-vs-Others.R
-    |
+    │    |
     └───video
             Fifa2017-GK-vs-Others.mp4
 ```
-- **README.md**: Fitxer explicatiu del projecte.
 - **LICENSE**: Fitxer amb els termes de la llicència aplicada al projecte.
+- **README.md**: Fitxer explicatiu del projecte.
 - **data/Fifa2017_original.csv**: Dataset d'entrada (còpia del dataset original FullData.csv).
 - **data/Fifa2017_final.csv**: Dataset de sortida, després del preprocessat.
 - **pdf/Fifa2017-GK-vs-Others.pdf**: Fitxer de presentació amb les respostes de la pràctica.
