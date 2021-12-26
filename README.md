@@ -44,7 +44,7 @@ D'acord a l'enunciat de la pràctica, es facilita un vídeo explicatiu del proje
     │       Fifa2017-GK-vs-Others.R
     │    
     └───video
-            Fifa2017-GK-vs-Others.mp4
+            *.*
 ```
 - **LICENSE**: Fitxer amb els termes de la llicència aplicada al projecte.
 - **README.md**: Fitxer explicatiu del projecte.
