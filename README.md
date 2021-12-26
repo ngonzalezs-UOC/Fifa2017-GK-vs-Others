@@ -17,6 +17,11 @@ A partir del dataset [Complete FIFA 2017 Player dataset (Global)](https://www.ka
 
 D'acord a l'enunciat de la pràctica, es facilita un vídeo explicatiu del projecte. Atesa la limitació de tamany de fitxers a Github, el vídeo s'ha estructurat en capítols:
 
+1. [Capítol 1 - Introducció](https://github.com/ngonzalezs-UOC/Fifa2017-GK-vs-Others/blob/main/video/Capitol_1_Introduccio.mp4)
+2. [Capítol 2 - Bloc 1: Neteja](https://github.com/ngonzalezs-UOC/Fifa2017-GK-vs-Others/blob/main/video/Capitol_2_Bloc1_Neteja.mp4)
+3. [Capítol 3 - Bloc 2: Anàlisi](https://github.com/ngonzalezs-UOC/Fifa2017-GK-vs-Others/blob/main/video/Capitol_3_Bloc2_Analisi.mp4)
+4. [Capítol 4 - Conclusió](https://github.com/ngonzalezs-UOC/Fifa2017-GK-vs-Others/blob/main/video/Capitol_4_Conclusio.mp4)
+
 ## Repositori 
 ```bash
 ────Fifa2017-GK-vs-Others
