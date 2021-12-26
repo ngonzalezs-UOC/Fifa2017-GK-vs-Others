@@ -49,7 +49,7 @@ D'acord a l'enunciat de la pràctica, es facilita un vídeo explicatiu del proje
 - **pdf/Fifa2017-GK-vs-Others.pdf**: Fitxer de presentació amb les respostes de la pràctica.
 - **src/Fifa2017-GK-vs-Others.Rmd**: Fitxer font amb les respostes de la pràctica que inclou el codi R.
 - **src/Fifa2017-GK-vs-Others.R**: Extracció del codi font R emprat en la pràctica.
-- **video/Fifa2017-GK-vs-Others.mp4**: Vídeo explicatiu del projecte.
+- **video/\*.\***: Vídeo explicatiu del projecte, estructurat per capítols (tamany < 25 MB).
 
 ## Autoria
 
